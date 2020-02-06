@@ -7,7 +7,7 @@ A Progressive webApp with :
   - HTML and css.
       
   * The app is based on the Woocommerce app for research purpses.No commercial use.
-  * There is a Splashscreen attached to project for Beer fun.
+  * There is a Splashscreen attached to project for Beer fans.
   
 
 ==============================================
