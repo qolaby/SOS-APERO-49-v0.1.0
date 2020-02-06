@@ -1,0 +1,633 @@
+[
+  {
+    "id": 1,
+    "name": "Absolut",
+    "slug": "absolut",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>ABSOLUT - Vodka 40° - 70 cl ! Absolut Vodka est la première marque de vodka Premium offrant le vrai goût de la vodka en version originale ou vos saveurs préférées à base d'ingrédients naturels.</p>\n",
+    "short_description": "<p>Absolut Vodka est la première marque de vodka Premium offrant le vrai goût de la vodka en version originale ou vos saveurs préférées à base d'ingrédients naturels.</p>\n",
+    "sku": "ABSOLUT-VODKA",
+    "price": "35",
+    "regular_price": "35",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span>35.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 25,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "4",
+    "rating_count": 3,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Nos Vodkas",
+        "slug": "vodkas"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 1,
+        "src": "images/absolut1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 2,
+        "src": "images/absolut2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  },
+
+
+  {
+    "id": 2,
+    "name": "Eristoff",
+    "slug": "Eristoff",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>ERISTOFF - Vodka 37,5° - 1l !</p>\n",
+    "short_description": "<p></p>\n",
+    "sku": "ERISTOFF-VODKA",
+    "price": "25",
+    "regular_price": "25",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span>25.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 25,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "4",
+    "rating_count": 3,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Nos Vodkas",
+        "slug": "vodkas"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 3,
+        "src": "images/eristof1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 4,
+        "src": "images/eristof2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Jack Daniel's",
+    "slug": "jack-daniels",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p></p>\n",
+    "short_description": "<p></p>\n",
+    "sku": "JACK-DANIELS",
+    "price": "30",
+    "regular_price": "30",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "</span>30.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+     
+    ],
+    "upsell_ids": [
+      1300
+    ],
+    "cross_sell_ids": [
+      1293,
+      1298
+    ],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Nos Whiskys",
+        "slug": "whiskys"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 5,
+        "src": "images/daniel1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 6,
+        "src": "images/daniel2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  },
+
+
+  {
+    "id": 3,
+    "name": "Jack Daniel's",
+    "slug": "jack-daniels",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p></p>\n",
+    "short_description": "<p></p>\n",
+    "sku": "JACK-DANIELS",
+    "price": "30",
+    "regular_price": "30",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "</span>30.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+     
+    ],
+    "upsell_ids": [
+      1300
+    ],
+    "cross_sell_ids": [
+      1293,
+      1298
+    ],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Nos Whiskys",
+        "slug": "whiskys"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 5,
+        "src": "images/daniel1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 6,
+        "src": "images/daniel2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  },
+
+
+  {
+    "id": 4,
+    "name": "Label5",
+    "slug": "label5",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p></p>\n",
+    "short_description": "<p></p>\n",
+    "sku": "LABEL5",
+    "price": "29",
+    "regular_price": "29",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "</span>29.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+     
+    ],
+    "upsell_ids": [
+      1300
+    ],
+    "cross_sell_ids": [
+      1293,
+      1298
+    ],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Nos Whiskys",
+        "slug": "whiskys"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 5,
+        "src": "images/label5_1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 6,
+        "src": "images/label5_2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  },
+
+  {
+    "id": 5,
+    "name": "Poliakov",
+    "slug": "poliakov",
+    "permalink": "",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p></p>\n",
+    "short_description": "<p></p>\n",
+    "sku": "POLIAKOV",
+    "price": "25",
+    "regular_price": "25",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "</span>25.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+     
+    ],
+
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Nos Vodkas",
+        "slug": "vodkas"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 5,
+        "src": "images/polia1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 6,
+        "src": "images/polia2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": ""
+        }
+      ],
+      "collection": [
+        {
+          "href": ""
+        }
+      ]
+    }
+  }
+
+]

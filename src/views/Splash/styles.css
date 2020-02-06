@@ -1,0 +1,536 @@
+
+
+
+.biere::before {
+  content: '';
+  position: absolute;
+  background: linear-gradient(#FF9900, #FFCC00);
+  width: 100%;
+  bottom: 0;
+  transition-delay: 10s;
+  animation: wipe 8s cubic-bezier(.2,.6,.8,.4) forwards;
+  z-index: 2;
+}
+
+@keyframes wipe {
+  0% {
+    height: 0;
+  }
+  100% {
+    height: 100%;
+  }
+}
+
+.biere:after {
+  background-color: rgba(255, 255, 255, 0.25);
+  content: '';
+  margin-left: -15%;
+  margin-top: 2%;
+  position: absolute;
+  width: 30%; 
+  height: 100%;
+  -webkit-transform: skew(-15deg); 
+  -moz-transform: skew(-15deg); 
+  -o-transform: skew(-15deg);
+  transform: skew(-15deg);
+  z-index: 2;
+
+}
+
+.verser {
+  width: 3%;
+  position: absolute;
+  left: 50%;
+  margin-left: 0px;
+  bottom: 0;
+  top: 0;
+  background: #FF9900;
+  animation-name: pourAction;
+  animation-timing-function: linear;
+  animation-duration: 0.25s;
+  z-index: 1;
+}
+
+@keyframes pourAction {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+ .bubble {
+  position : absolute;
+  -webkit-animation-name: bubble;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  background-color: rgb(255,255,255,0.5);
+  bottom: 0;
+  border-radius: 10px;
+  height: 20px;
+  width: 20px;
+  z-index: 2;
+}
+
+@-webkit-keyframes bubble {
+  0% { bottom: 0; }
+
+   20% {
+     background-color: rgba(255, 255, 255, 0.4);
+      bottom: 20%;
+   }
+   30% {
+     background-color: rgba(255, 255, 255, 0.3);
+      bottom: 30%;
+   }
+   50% {
+     background-color: rgba(255, 255, 255, 0.2);
+      bottom: 50%;
+   }
+   80% {
+     background-color: rgba(255, 255, 255, 0.1);
+      bottom: 70%;
+   }
+
+   100% {
+     background-color: rgba(255, 255, 255, 0);
+      bottom: 90%px;
+   }
+}
+
+.bubble1 {
+  left: 10px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 1000ms;
+}
+
+.bubble2 {
+  left: 50px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 1100ms;
+}
+
+.bubble3 {
+  left: 100px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble4 {
+  left: 130px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble5 {
+  left: 170px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble6 {
+  right: 10px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 1200ms;
+}
+
+.bubble7 {
+  right: 50px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 1100ms;
+}
+
+.bubble8 {
+  right: 100px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble9 {
+  right: 130px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble10 {
+  right: 170px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble11 {
+  left: 200px;
+  -webkit-animation-delay:  700ms;
+  -webkit-animation-duration: 1000ms;
+}
+
+.bubble12 {
+  left: 230px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 1100ms;
+}
+
+.bubble13 {
+  left: 270px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble14 {
+  left: 300px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble15 {
+  left: 320px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble16 {
+  right: 200px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1000ms;
+}
+
+.bubble17 {
+  right: 230px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble18 {
+  right: 270px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble19 {
+  right: 300px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 1000ms;
+}
+
+.bubble20 {
+  right: 320px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble21 {
+  left: 350px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble22 {
+  left: 390px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 1100ms;
+}
+
+.bubble23 {
+  left: 430px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble24 {
+  left: 480px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 1200ms;
+}
+
+.bubble25 {
+  left: 510px;
+  -webkit-animation-delay: 1300ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble26 {
+  right: 350px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble27 {
+  right: 390px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble28 {
+  right: 430px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble29 {
+  right: 480px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble30 {
+  right: 530px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 900ms;
+}
+
+.bubble31 {
+  left: 590px;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 700ms;
+}
+
+.bubble32 {
+  left: 650px;
+  -webkit-animation-delay: 700ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble33 {
+  left: 690px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 1300ms;
+}
+
+.bubble34 {
+  left: 720px;
+  -webkit-animation-delay: 1100ms;
+  -webkit-animation-duration: 800ms;
+}
+
+.bubble35 {
+  left: 770px;
+  -webkit-animation-delay: 1200ms;
+  -webkit-animation-duration: 900ms;
+}
+
+
+
+/* Foam */
+
+.beer-foam {
+  position: absolute;
+  bottom: -10px;
+  height: 130px;
+  animation: wipe 8s cubic-bezier(.2,.6,.8,.4) forwards;
+}
+
+.foam-1, .foam-2, .foam-3, .foam-4, 
+.foam-5, .foam-6, .foam-7, .foam-8, 
+.foam-9, .foam-10, .foam-11, .foam-12,
+.foam-13, .foam-14, .foam-15, .foam-16, 
+.foam-17, .foam-18, .foam-19, 
+.foam-20, .foam-21, .foam-22, .foam-23, 
+.foam-24, .foam-25, .foam-26, .foam-27,
+.foam-28, .foam-29, .foam-30, .foam-31,
+.foam-32, .foam-33, .foam-34, .foam-35,
+.foam-36, .foam-37, .foam-38, .foam-39,
+.foam-40, .foam-41, .foam-42, .foam-43,
+.foam-44, .foam-45, .foam-46
+ {
+  float: left;
+  position: absolute;
+  z-index: 2;
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  background-color : #F8F8FF;
+}
+.foam-1 {
+  top: -30px;
+  left: -10px;
+}
+.foam-2 {
+  top: -35px;
+  left: 20px; 
+}
+.foam-3 {
+  top: -25px;
+  left: 50px; 
+}
+.foam-4 {
+  top: -35px;
+  left: 80px; 
+}
+.foam-5 {
+  top: -30px;
+  left: 110px; 
+}
+.foam-6 {
+  top: -20px;
+  left: 140px; 
+}
+.foam-7 {
+  top: -30px;
+  left: 160px;
+}
+
+.foam-8 {
+  top: -30px;
+  left: 170px;
+}
+.foam-9 {
+  top: -35px;
+  left: 170px; 
+}
+.foam-10 {
+  top: -25px;
+  left: 210px; 
+}
+.foam-11 {
+  top: -35px;
+  left: 240px; 
+}
+.foam-12 {
+  top: -30px;
+  left: 270px; 
+}
+.foam-13 {
+  top: -20px;
+  left: 300px; 
+}
+.foam-14 {
+  top: -30px;
+  left: 340px;
+}
+
+.foam-15 {
+  top: -30px;
+  left: 375px;
+}
+.foam-16 {
+  top: -30px;
+  left: 400px;
+}
+.foam-17 {
+  top: -35px;
+  left: 425px; 
+}
+.foam-18 {
+  top: -25px;
+  left: 450px; 
+}
+.foam-19 {
+  top: -35px;
+  left: 480px; 
+}
+.foam-20 {
+  top: -30px;
+  left: 505px; 
+}
+.foam-21 {
+  top: -20px;
+  left: 533px; 
+}
+.foam-22 {
+  top: -30px;
+  left: 566px;
+}
+
+.foam-23 {
+  top: -30px;
+  left: 590px;
+}
+.foam-24 {
+  top: -28px;
+  left: 625px; 
+}
+.foam-25 {
+  top: -25px;
+  left: 666px; 
+}
+.foam-26 {
+  top: -33px;
+  left: 700px; 
+}
+.foam-27 {
+  top: -30px;
+  left: 700px; 
+}
+.foam-28 {
+  top: -20px;
+  left: 733px; 
+}
+.foam-29 {
+  top: -30px;
+  left: 750px;
+}
+
+.foam-30 {
+  top: -30px;
+  left: 777px;
+}
+
+.foam-31 {
+  top: -30px;
+  left: 800px;
+}
+.foam-32 {
+  top: -35px;
+  left: 840px; 
+}
+.foam-33 {
+  top: -33px;
+  left: 880px; 
+}
+.foam-34 {
+  top: -35px;
+  left: 915px; 
+}
+.foam-35 {
+  top: -30px;
+  left: 955px; 
+}
+.foam-36 {
+  top: -20px;
+  left: 990px; 
+}
+.foam-37 {
+  top: -30px;
+  left: 1015px;
+}
+
+.foam-38 {
+  top: -20px;
+  left: 1045px;
+}
+
+.foam-39 {
+  top: -28px;
+  left: 1080px;
+}
+
+.foam-40 {
+  top: -25px;
+  left: 1111px;
+}
+
+.foam-41 {
+  top: -30px;
+  left: 1145px;
+}
+.foam-42 {
+  top: -35px;
+  left: 1170px; 
+}
+.foam-43 {
+  top: -33px;
+  left: 1200px; 
+}
+.foam-44 {
+  top: -30px;
+  left: 1235px; 
+}
+.foam-45 {
+  top: -35px;
+  left: 1266px; 
+}
+.foam-46 {
+  top: -30px;
+  left: 1303px; 
+}

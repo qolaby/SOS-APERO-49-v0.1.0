@@ -1,0 +1,9 @@
+.sidebar {
+  padding-top: 20px;
+}
+
+div.ui.borderless.inverted.labeled.icon.ui.overlay.right.wide.visible.sidebar.menu {
+
+	background-color: white;
+	opacity: 0.9;
+}

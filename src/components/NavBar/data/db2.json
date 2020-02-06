@@ -1,0 +1,486 @@
+[
+  {
+    "id": 1,
+    "name": "Absolut",
+    "slug": "absolut",
+    "permalink": "https://pwathemes.com/demo-api/product/patient-ninja/",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p></p>\n",
+    "short_description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "sku": "ABSOLUT-VODKA",
+    "price": "35",
+    "regular_price": "35",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span>35.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 25,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "4",
+    "rating_count": 3,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Nos Vodkas",
+        "slug": "vodkas"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 1,
+        "date_created": "2017-07-31T11:56:53",
+        "date_created_gmt": "2017-07-31T11:56:53",
+        "date_modified": "2017-07-31T11:56:53",
+        "date_modified_gmt": "2017-07-31T11:56:53",
+        "src": "images/absolut1.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 2,
+        "date_created": "2017-07-31T11:56:55",
+        "date_created_gmt": "2017-07-31T11:56:55",
+        "date_modified": "2017-07-31T11:56:55",
+        "date_modified_gmt": "2017-07-31T11:56:55",
+        "src": "images/absolut2.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products/1339"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+
+
+  {
+    "id": 1330,
+    "name": "Ship Your Idea",
+    "slug": "ship-your-idea",
+    "permalink": "https://pwathemes.com/demo-api/product/ship-your-idea/",
+    "date_created": "2017-07-31T11:56:40",
+    "date_created_gmt": "2017-07-31T11:56:40",
+    "date_modified": "2017-07-31T11:56:40",
+    "date_modified_gmt": "2017-07-31T11:56:40",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "short_description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "sku": "POSTER-SHIP-YOUR-IDEA",
+    "price": "15",
+    "regular_price": "15",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>15.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 2,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      1318,
+      1324,
+      1327,
+      1321
+    ],
+    "upsell_ids": [
+      1296,
+      1297
+    ],
+    "cross_sell_ids": [
+      1296,
+      1297
+    ],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 87,
+        "name": "Posters",
+        "slug": "posters"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 1328,
+        "date_created": "2017-07-31T11:56:35",
+        "date_created_gmt": "2017-07-31T11:56:35",
+        "date_modified": "2017-07-31T11:56:35",
+        "date_modified_gmt": "2017-07-31T11:56:35",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115636/poster_1_up.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 1329,
+        "date_created": "2017-07-31T11:56:38",
+        "date_created_gmt": "2017-07-31T11:56:38",
+        "date_modified": "2017-07-31T11:56:38",
+        "date_modified_gmt": "2017-07-31T11:56:38",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115638/Poster_1_flat.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products/1330"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1299,
+    "name": "Happy Ninja",
+    "slug": "happy-ninja-2",
+    "permalink": "https://pwathemes.com/demo-api/product/happy-ninja-2/",
+    "date_created": "2017-07-31T11:55:51",
+    "date_created_gmt": "2017-07-31T11:55:51",
+    "date_modified": "2017-07-31T11:57:14",
+    "date_modified_gmt": "2017-07-31T11:57:14",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "short_description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "sku": "T-SHIRT-HAPPY-NINJA",
+    "price": "18",
+    "regular_price": "18",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>18.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      1295,
+      1291,
+      1296,
+      1300,
+      1298
+    ],
+    "upsell_ids": [
+      1300
+    ],
+    "cross_sell_ids": [
+      1293,
+      1298
+    ],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 88,
+        "name": "Clothing",
+        "slug": "clothing"
+      },
+      {
+        "id": 90,
+        "name": "T-shirts",
+        "slug": "t-shirts"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 1348,
+        "date_created": "2017-07-31T11:57:10",
+        "date_created_gmt": "2017-07-31T11:57:10",
+        "date_modified": "2017-07-31T11:57:10",
+        "date_modified_gmt": "2017-07-31T11:57:10",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115710/T_7_front.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 1349,
+        "date_created": "2017-07-31T11:57:12",
+        "date_created_gmt": "2017-07-31T11:57:12",
+        "date_modified": "2017-07-31T11:57:12",
+        "date_modified_gmt": "2017-07-31T11:57:12",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115712/T_7_back.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products/1299"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1295,
+    "name": "Premium Quality",
+    "slug": "premium-quality-2",
+    "permalink": "https://pwathemes.com/demo-api/product/premium-quality-2/",
+    "date_created": "2017-07-31T11:55:50",
+    "date_created_gmt": "2017-07-31T11:55:50",
+    "date_modified": "2017-07-31T11:57:38",
+    "date_modified_gmt": "2017-07-31T11:57:38",
+    "type": "simple",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "short_description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n",
+    "sku": "T-SHIRT-PREMIUM-QUALITY",
+    "price": "20",
+    "regular_price": "20",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>20.00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": 0,
+    "download_expiry": 0,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "taxable",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      1296,
+      1298,
+      1301,
+      1293,
+      1297
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 88,
+        "name": "Clothing",
+        "slug": "clothing"
+      },
+      {
+        "id": 90,
+        "name": "T-shirts",
+        "slug": "t-shirts"
+      }
+    ],
+    "tags": [],
+    "images": [
+      {
+        "id": 1361,
+        "date_created": "2017-07-31T11:57:34",
+        "date_created_gmt": "2017-07-31T11:57:34",
+        "date_modified": "2017-07-31T11:57:34",
+        "date_modified_gmt": "2017-07-31T11:57:34",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115734/T_2_front.jpg",
+        "name": "",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 1362,
+        "date_created": "2017-07-31T11:57:36",
+        "date_created_gmt": "2017-07-31T11:57:36",
+        "date_modified": "2017-07-31T11:57:36",
+        "date_modified_gmt": "2017-07-31T11:57:36",
+        "src": "https://dm6mgg4whxzuh.cloudfront.net/website-pwathemes/demo-api/wp-content/uploads/2017/07/31115736/T_2_back.jpg",
+        "name": "",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products/1295"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://pwathemes.com/demo-api/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  }
+]

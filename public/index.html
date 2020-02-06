@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <script src="https://www.gstatic.com/firebasejs/5.1.0/firebase.js"></script>
+<script>
+  var config = {
+    apiKey: "AIzaSyB5QbZyqZZs-41hv6o2sOF_LWUMdtO-5iU",
+    authDomain: "sosaperopushnotify.firebaseapp.com",
+    databaseURL: "https://sosaperopushnotify.firebaseio.com",
+    projectId: "sosaperopushnotify",
+    storageBucket: "sosaperopushnotify.appspot.com",
+    messagingSenderId: "384845307679"
+  };
+  firebase.initializeApp(config);
+</script>
+<script type="text/javascript">
+  if (navigator.serviceWorker) {
+  navigator.serviceWorker.register('%PUBLIC_URL%/server-worker.js').then(function(registration) {
+    console.log('Good qossai le serveur est à ladresse:',  registration.scope);
+  }).catch(function(error) {
+    console.log('Oups probleme:', error);
+  });
+}
+</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"
+  />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-touch-fullscreen" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#c89833">
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+  
+  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+
+  <title>SOS APERO49</title>
+  <link rel="stylesheet" href="styles/css/semantic.min.css"></link>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="styles/css/components/icon.min.css"></link>
+  <script src="styles/js/semantic.min.js"></script>
+  <script type="text/javascript">
+    window.appticles = {
+      config: {
+        API_CATEGORIES_URL: 'db3.json',
+        API_PRODUCTS_URL: 'db2.json',
+        API_PRODUCT_URL: 'db2.json',
+        CURRENCY: '€',
+        OFFLINE: true,
+      }
+    }
+
+  </script>
+  
+</head>
+
+<body>
+  <noscript>
+    le NoScript
+  </noscript>
+  <div id="root" style="height:100%"></div>
+ 
+ 
+</body>
+
+</html>

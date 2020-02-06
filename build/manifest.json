@@ -1,0 +1,35 @@
+{
+  "name": "SosApero 49",
+  "short_name": "Sosapero",
+  "start_url": "/",
+  "display": "standalone",
+  "scope" : ".",
+  "orientation": "any",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "gcm_sender_id": "73019687848",
+  "icons": [
+    {
+      "src": "48icon_1512486555.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "96icon_1512486555.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+
+     {
+      "src": "144icon_1512486555.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+   
+    {
+      "src": "196icon_1512486555.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    }
+  ]
+}
